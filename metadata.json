@@ -1,0 +1,6 @@
+{
+  "name": "Midnight Romance - Boyfriend's Day Love Letter",
+  "description": "A cinematic, deeply personal interactive digital love letter and relationship story celebrating Boyfriend's Day.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
